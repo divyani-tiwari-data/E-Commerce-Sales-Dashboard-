@@ -33,6 +33,8 @@ E-commerce businesses process thousands of transactions daily across various pro
 * Which regions or states are underperforming in sales?
 * What payment methods are most preferred by customers?
 
+---
+
 ### 🎯 Goal of the Dashboard
 To deliver an end-to-end interactive report that:
 * Monitors real-time business health using core financial KPIs (Sales, Profit, Quantity, AOV).
@@ -42,24 +44,11 @@ To deliver an end-to-end interactive report that:
 ---
 
 ### 📈 Walkthrough of Key Visuals
-
-* **Key KPIs (Top Summary Cards):**
-  * **Total Sales Amount:** Overall revenue generated.
-  * **Total Profit:** Net profit realized across orders.
-  * **Total Quantity Sold:** Number of units shipped.
-  * **Average Order Value (AOV):** Revenue performance per customer transaction.
-
-* **Category & Sub-Category Performance (Bar Chart):**
-  * Ranks product lines (e.g., Clothing, Electronics, Furniture) by total revenue and profit margins to highlight bestsellers.
-
-* **Sales by State / Region (Map & Horizontal Bar Visual):**
-  * Visualizes geographical performance across different states, identifying key revenue hotspots and low-performing markets.
-
-* **Payment Mode Breakdown (Donut Chart):**
-  * Displays customer preference across Cash on Delivery (COD), Credit Card, UPI, and EMI transactions.
-
-* **Monthly Sales & Profit Trend (Line / Combo Chart):**
-  * Tracks month-over-month sales velocity to identify seasonal spikes and sales dips throughout the fiscal year.
+* **Top KPI Summary Cards:** Instant visibility into core metrics—Total Orders (**22K**), Revenue (**$1.57M**), Net Profit (**$175K**), and Average Order Value (**$70**).
+* **Sales by Region & State (Donut & Map Visuals):** Maps geographical distribution, highlighting the **West Region ($522.33K)** as the top revenue contributor.
+* **Payment Mode & Segment Analysis (Donut Charts):** Breaks down customer buying choices, showing **Cash on Delivery ($667.42K)** and the **Consumer Segment ($730K+)** as primary drivers.
+* **Monthly Sales & Profit Trends by Year (Line Charts):** Compares performance over time (2019 vs 2020) to track seasonality and growth patterns.
+* **Shipping & Product Performance (Bar Charts):** Analyzes sales across shipping modes (**Standard Class leading at $912.4K**) and pinpoints performance by Category, Sub-Category, and **Bottom 5 Loss-Making Products**.
 
 ---
 

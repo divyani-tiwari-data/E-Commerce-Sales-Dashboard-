@@ -73,4 +73,4 @@ To deliver an end-to-end interactive report that:
 
 ## 📸 Dashboard Preview
 
-![E-commerce Sales Dashboard](YOUR_IMAGE_LINK_HERE)
+![E-commerce Sales Dashboard](https://github.com/divyani-tiwari-data/E-Commerce-Sales-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.jpeg)

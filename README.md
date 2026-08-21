@@ -11,16 +11,16 @@ The E-commerce Sales Dashboard is an analytical visual tool built to help e-comm
 ---
 
 ## Tech Stack
-* Power BI Desktop: Main data visualization platform used for report creation and interactive dashboard design.
-* Power Query: Data transformation, cleaning, and ETL layer used for reshaping raw e-commerce data.
-* DAX (Data Analysis Expressions): Used to compute key calculated measures, YoY growth, margins, and dynamic visual filters.
-* Data Modeling: Star schema modeling established between sales data, customer demographics, and product lookup tables to enable seamless cross-filtering.
+* Power BI Desktop: Used as the core business intelligence and data visualization platform to design, build, and publish interactive analytics dashboards.
+* Power Query: Utilized for data extraction, transformation, and loading (ETL), enabling data cleaning, shape transformation, and column manipulation.
+* DAX (Data Analysis Expressions): Applied to write optimized formulas and calculated measures for dynamic data analysis, aggregations, and performance metrics.
 
 ---
 
 ## Data Source
-* Source: E-commerce Transactional Dataset (Sales, Orders, Details, and Customer Attributes).
-* Dataset Scope: Contains detailed records of customer transactions, order quantities, sales amounts, profit margins, payment modes, product sub-categories, and geographic delivery locations.
+* Source: Kaggle (Superstore Sales Dataset)
+* Format: CSV (.csv)
+* Dataset Scope: Contains transactional records including Order ID, Order Date, Ship Mode, Customer Segment, Region, State, Category, Sub-Category, Sales, Quantity, Discount, and Profit.
 
 ---
 
@@ -44,22 +44,22 @@ To deliver an end-to-end interactive report that:
 ---
 
 ### Walkthrough of Key Visuals
-* Top KPI Summary Cards: Instant visibility into core metrics—Total Orders (22K), Revenue ($1.57M), Net Profit ($175K), and Average Order Value ($70).
-* Sales by Region & State (Donut & Map Visuals): Maps geographical distribution, highlighting the West Region ($522.33K) as the top revenue contributor.
-* Payment Mode & Segment Analysis (Donut Charts): Breaks down customer buying choices, showing Cash on Delivery ($667.42K) and the Consumer Segment ($730K+) as primary drivers.
-* Monthly Sales & Profit Trends by Year (Line Charts): Compares performance over time (2019 vs 2020) to track seasonality and growth patterns.
-* Shipping & Product Performance (Bar Charts): Analyzes sales across shipping modes (Standard Class leading at $912.4K) and pinpoints performance by Category, Sub-Category, and Bottom 5 Loss-Making Products.
+* Top KPI Summary Cards: Instant visibility into core metrics—**Total Orders (22K)**, **Revenue ($1.57M)**, **Net Profit ($175K)**, and **Average Order Value ($70)**.
+* Sales by Region & State: Donut and Map visuals to track geographical distribution, highlighting the **West Region ($522.33K)** as the top revenue contributor.
+* Payment Mode & Segment Analysis: Donut charts breaking down customer buying choices, showing **Cash on Delivery ($667.42K)** and the **Consumer Segment ($730K+)** as primary drivers.
+* Monthly Sales & Profit Trends by Year: Line charts comparing performance over time **(2019 vs 2020)** to track seasonality and growth patterns.
+* Shipping & Product Performance: Bar charts analyzing sales across shipping modes (**Standard Class leading at $912.4K**) and pinpointing performance by Category, Sub-Category, and **Bottom 5 Loss-Making Products**.
 
 ---
 
 ## Key Business Insights (From Dashboard)
-* Payment Preference: Cash on Delivery (COD) leads sales at $667.42K, closely followed by Online Payments ($553.59K).
-* Regional & Segment Lead: The West Region ($522.33K) is the highest revenue generator, and the Consumer Segment ($730K+) drives the bulk of total orders.
-* Shipment Method: Standard Class is the most preferred shipping mode ($912.4K), indicating customers prefer lower shipping costs over same-day delivery.
-* Profit Bleed Alert: The Bottom 5 Products by Profit visual highlights items causing significant net losses (e.g., Cubify products with negative margins up to -$6.2K), requiring urgent pricing adjustments.
+* Payment Preference: **Cash on Delivery (COD)** leads sales at **$667.42K**, closely followed by **Online Payments ($553.59K)**.
+* Regional & Segment Lead: The **West Region ($522.33K)** is the highest revenue generator, and the **Consumer Segment ($730K+)** drives the bulk of total orders.
+* Shipment Method: **Standard Class** is the most preferred shipping mode (**$912.4K**), indicating customers prefer lower shipping costs over same-day delivery.
+* Profit Bleed Alert: The **Bottom 5 Products by Profit** visual highlights items causing significant net losses (e.g., Cubify products with negative margins up to **-$6.2K**), requiring urgent pricing adjustments.
 
 ---
 
 ## Dashboard Preview
 
-![E-commerce Sales Dashboard](https://github.com/divyani-tiwari-data/E-Commerce-Sales-Dashboard-/blob/main/Snapshot%20of%20the%20Dashboard.jpeg)
+![E-commerce Sales Dashboard](Snapshot%20of%20the%20Dashboard.jpeg)

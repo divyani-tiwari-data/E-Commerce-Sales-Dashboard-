@@ -18,9 +18,10 @@ This report provides a single-page operational view to evaluate sales and profit
 ---
 
 ## Data Source
-* Source: Kaggle (Superstore Sales Dataset)
-* Format: CSV (.csv)
+* Dataset Name: E-Commerce Sales Dataset (Kaggle - Superstore Sales Dataset)
+* Access Link: [Download Dataset CSV](https://drive.google.com/file/d/15I8Xe_XJoz_vaMoCE8PAt-OJ40m9uSIw/view?usp=drivesdk)
 * Key Attributes: Order ID, Sales, Profit, Quantity, Customer Segment, Region, State, Category, Sub-Category, Ship Mode, and Payment Mode.
+
 
 ---
 

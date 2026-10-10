@@ -28,7 +28,7 @@ This report provides a single-page operational view to evaluate sales and profit
 
 ## Features & Highlights
 
-### Business Problem
+### Business Problem & Key Questions
 E-commerce operations struggle to pinpoint profit leakage and cost drivers across thousands of orders. Key questions addressed:
 * Which specific products are causing significant profit losses despite high sales volume?
 * What payment methods (COD, Online, Cards) drive the highest transaction share?
@@ -37,30 +37,19 @@ E-commerce operations struggle to pinpoint profit leakage and cost drivers acros
 
 ---
 
-### Goal of the Dashboard
-* Monitor core business performance using top-level KPI cards (**22K Orders, $1.57M Sales, $175K Profit, $70 AOV**).
-* Isolate loss-draining items to enable immediate catalog or pricing intervention.
-* Track category and sub-category distribution for inventory planning.
-
----
-
 ### Walkthrough of Key Visuals
-* **Top KPI Summary Cards:** Direct view of Orders (**22K**), Revenue (**$1.57M**), Net Profit (**$175K**), and Average Order Value (**$70**).
-* **Category Slicers:** Top slicers for **Furniture**, **Office Supplies**, and **Technology** for dynamic report filtering.
-* **Geographic Distribution:** Map and Donut chart highlighting **West Region ($522.33K)** as top revenue driver, followed by **East ($449.75K)**, **Central ($341.97K)**, and **South ($251.75K)**.
-* **Payment Mode & Segment:** Donut visuals showing **COD ($667.42K)** leading payment methods, and **Consumer ($753K)** leading customer segments.
-* **YoY Monthly Trends:** Line charts mapping **2019 vs 2020** performance for both Monthly Profit and Monthly Sales.
-* **Shipping & Product Performance:** Bar visuals tracking **Standard Class ($912.4K)** dominance, **Office Supplies ($643.71K)** top category sales, **Phones ($196.56K)** top sub-category, and **Bottom 5 Products by Profit** (e.g., Cubify products losing up to **-$6.2K**).
+* **Top KPI Cards:** Direct view of Orders (**22K**), Revenue (**$1.57M**), Net Profit (**$175K**), and AOV (**$70**).
+* **Filters & Slicers:** Top slicers for **Furniture**, **Office Supplies**, and **Technology** for dynamic filtering.
+* **Charts & Maps:** Geographic sales map, monthly YoY trend lines, and payment/shipping distribution visuals.
+* **Performance Bars:** Category/Sub-category breakdown and **Bottom 5 Products by Profit** visualization.
 
 ---
 
-## Key Business Insights
-* **Payment Dominance:** Cash on Delivery (COD) accounts for the largest share at **$667.42K**, followed by Online (**$553.59K**) and Cards (**$344.39K**).
-* **Shipping Behavior:** Customers heavily favor **Standard Class ($912.4K)** shipping over express modes like Same Day (**$95.96K**).
-* **Profit Leakage Alert:** Clear margin bleed identified in the **Bottom 5 Products**, where Cubify 3D printers record heavy negative profits down to **-$6.2K**.
+### Key Business Insights
+* **Profit Bleed Alert:** Clear margin bleed identified in **Bottom 5 Products**, where Cubify 3D printers record heavy negative profits down to **-$6.2K**.
+* **Payment & Shipping Trends:** **Cash on Delivery ($667.42K)** dominates payment methods, while customers heavily prefer **Standard Class ($912.4K)** shipping over express options.
 * **Regional & Category Leadership:** **Office Supplies ($643.71K)** is the highest revenue category, and the **West Region ($522.33K)** leads regional contributions.
-
----
+* **YoY Trends:** Tracked monthly sales and profit growth performance comparing 2019 vs 2020.
 
 ## Dashboard Preview
 

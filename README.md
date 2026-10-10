@@ -1,11 +1,11 @@
 # E-Commerce Sales Dashboard
 
 ## Project Overview
-An interactive Power BI dashboard created using Kaggle's Superstore Sales Dataset to track key metrics—$1.57M in Total Sales, $175K in Net Profit, and 22K Total Orders—across regions, categories, and customer segments.
+An interactive Power BI dashboard designed to analyze e-commerce sales performance, track core business metrics ($1.57M Sales, $175K Net Profit, 22K Orders), and identify margin leakages across product categories and regions.
 
 ---
 
-## Short Description / Purpose
+## Short Description
 This report provides a single-page operational view to evaluate sales and profit trends (2019 vs 2020), identify loss-making products, analyze customer shipping preferences, and monitor region-wise performance.
 
 ---
@@ -13,7 +13,8 @@ This report provides a single-page operational view to evaluate sales and profit
 ## Tech Stack
 * Power BI Desktop: Used as the core business intelligence platform to design interactive layouts and visual reports.
 * Power Query: Utilized for data cleaning, transformation, and shaping raw transactional CSV files.
-* DAX (Data Analysis Expressions): Applied to write calculated measures for aggregate sales, net margins, order counts, and YoY time-intelligence comparisons.
+* Calculated Measures: Applied basic DAX formulas to create key metrics (Sales, Profit, Orders, AOV).
+* Data Architecture: Single-table transactional data model focused on clean presentation and smooth usability.
 
 ---
 

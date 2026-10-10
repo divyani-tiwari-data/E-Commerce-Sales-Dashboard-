@@ -64,4 +64,4 @@ E-commerce operations struggle to pinpoint profit leakage and cost drivers acros
 
 ## Dashboard Preview
 
-![E-Commerce Sales Dashboard](Snapshot%20of%20the%20Dashboard.jpeg)
+![E-Commerce Sales Dashboard](Snapshot%20of%20the%20Dashboard.png)

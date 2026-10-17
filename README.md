@@ -45,6 +45,15 @@ E-commerce operations struggle to pinpoint profit leakage and cost drivers acros
 
 ---
 
+## How to Use
+
+1. Download the `.pbix` (Power BI file) and the dataset file from this repository.
+2. Open the `.pbix` file in Microsoft Power BI Desktop.
+3. Reconnect the dataset source locally if prompted to load the interactive dashboard properly.
+4. Check out the `Snapshot of the Dashboard.png` file for a quick preview of the final design!
+
+---
+
 ### Key Business Insights
 * **Profit Bleed Alert:** Clear margin bleed identified in **Bottom 5 Products**, where Cubify 3D printers record heavy negative profits down to **-$6.2K**.
 * **Payment & Shipping Trends:** **Cash on Delivery ($667.42K)** dominates payment methods, while customers heavily prefer **Standard Class ($912.4K)** shipping over express options.
@@ -54,3 +63,10 @@ E-commerce operations struggle to pinpoint profit leakage and cost drivers acros
 ## Dashboard Preview
 
 ![E-Commerce Sales Dashboard](Snapshot%20of%20the%20Dashboard.png)
+
+---
+
+## Author
+
+**Divyani Tiwari** | B.Sc. Computer Science & Mathematics Student | Aspiring Data Analyst
+
